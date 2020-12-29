@@ -1,2 +1,2 @@
-# Programowanie-strukturalne-i-obiektowe
+# Programowanie-strukturalne-i-obiektowe c++
  
